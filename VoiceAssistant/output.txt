@@ -1,0 +1,52 @@
+User: What is the weather in London
+Assistant: The weather in london is currently broken clouds with a temperature of 15.1°C.
+
+
+User: What is the history of the Eiffel Tower?
+Assistant: Construction start date: 28/01/1887 (137 years ago)
+Completion date: 1889 (135 years ago)
+Opening date: 31/03/1889 (135 years ago)
+
+User: What time is it?
+Assistant: The time is 08:17 AM.
+
+User: Can you tell me the current time?
+Assistant: The time is 08:17 AM.
+
+User: What’s the time right now?
+Assistant: The time is 08:17 AM.
+
+User: Tell me a joke.
+Assistant: If you listen to a UNIX shell, can you hear the C?
+
+User: Give me a funny joke.
+Assistant: Software developers like to solve problems. If there are no problems handily available, they will create their own.
+
+User: What’s the latest news?
+Assistant: Top 5 News Headlines:
+
+1. Live briefing: Israeli strikes kill at least a dozen health workers in Lebanon - The Washington Post
+2. Reports: LT D.J. Humphries to sign with Chiefs - NBC Sports
+3. First bird flu case in a child in the U.S. confirmed in California - The Washington Post
+4. Donald Trump chooses hedge fund executive Scott Bessent for Treasury Secretary - CNBC
+5. ‘Wicked’ Director Jon M. Chu on Those Surprise Cameos: “We Had One Day to Do It” - Hollywood Reporter
+
+User: Send a WhatsApp text to my friend, +91<younumber>, message Good morning!
+Assistant: Message sent to my friend, +91<younumber>: Good morning!
+
+User: Who is the president of the United States?
+Assistant: Joe Biden (from 20/01/2021 to present)
+
+User: What is the square root of 144?
+Assistant: 12
+
+User: Calculate the sum of 256 and 128.
+Assistant: 384
+
+User: Wikipedia Nikola Tesla
+Assistant: Nikola Tesla (10 July 1856 – 7 January 1943) was a Serbian-American engineer, 
+futurist, and inventor. He is known for his contributions to the design of the modern alternating current (AC) 
+electricity supply system.
+
+User: play youtube spark
+Assistant: Playing 'spark' on YouTube.

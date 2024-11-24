@@ -1,0 +1,52 @@
+1. WhatsApp Messaging:✅
+Voice Command: "Send message to +1234567890 with Hello, how are you?"
+Text Command: "Send message to +9876543210 with Good morning!"
+
+2. Weather Information:❌
+Voice Command: "What's the weather in London?"
+Text Command: "weather in New York"
+
+3. News Headlines:✅
+Voice Command: "Tell me the news."
+Text Command: "news"
+
+4. Currency Conversion:❌
+Voice Command: "Convert 100 USD to EUR."
+Text Command: "convert 50 INR to USD"✅
+
+5. General Knowledge via WolframAlpha:
+Voice Command: "Who is the president of the United States?"✅
+Text Command: "what is the capital of France?"❌
+Text Command: "calculate 25 + 35"✅
+
+6. Playing Music:
+Voice Command: "Play Shape of You."✅
+Text Command: "play Bohemian Rhapsody"✅
+
+7. Jokes:
+Voice Command: "Tell me a joke."✅
+Text Command: "joke"✅
+
+8. Current Time:
+Voice Command: "What time is it?"✅
+Text Command: "time"✅
+
+9. Simple Interaction:✅
+Voice Command: "How are you?"
+Text Command: "how are you"
+
+10. Unknown or Unclear Input:
+Voice Command/Text Command: "Hello"❌
+Voice Command/Text Command: "Play music in the background"✅
+
+11. Ask a New Question (Not in Knowledge Base):✅
+Voice Command: "What is the meaning of life?"
+Text Command: "why is the sky blue?"
+
+12. Change Assistant's Name:❌
+Voice Command: "Set your name to Alexa."
+Text Command: "set your name to Siri."
+
+13. Basic Commands:❌
+Voice Command: "Tell me a fact."
+Text Command: "Who is Elon Musk?"

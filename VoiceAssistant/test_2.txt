@@ -1,0 +1,65 @@
+User (via text):
+"Hello"
+
+Assistant:
+"Hello! How can I assist you today?"
+
+User (via text):
+"How are you?"
+
+Assistant:
+"I'm an AI assistant, always ready to help you. How can I assist?"
+
+User (via text):
+"What is the weather in New York?"
+
+Assistant:
+"The weather in New York is currently overcast clouds with a temperature of 8.35°C."
+
+User (via text):
+"Tell me a joke"
+
+Assistant:
+"Why don't skeletons fight each other? They don't have the guts."
+
+User (via text):
+"What is the capital of France?"
+
+Assistant:
+"The capital of France is Paris."
+
+User (via text):
+"Tell me the news"
+
+Assistant:
+"Top 5 News Headlines:
+
+Israeli strikes kill at least a dozen health workers in Lebanon.
+Reports: LT D.J. Humphries to sign with Chiefs.
+First bird flu case in a child in the U.S. confirmed in California.
+Donald Trump chooses hedge fund executive Scott Bessent for Treasury Secretary.
+‘Wicked’ Director Jon M. Chu on surprise cameos."
+
+User (via text):
+"What's the time?"
+
+Assistant:
+"The time is 10:30 AM."
+
+User (via text):
+"Play Spark on YouTube"
+
+Assistant:
+"Playing 'Spark' on YouTube."
+
+User (via text):
+"Send a WhatsApp message to +918925751054 message Hi there!"
+
+Assistant:
+"Message sent to +918925751054: Hi there!"
+
+User (via voice):
+(Assistant listens to voice input: "What's the weather in London?")
+
+Assistant (via voice):
+"The weather in London is currently broken clouds with a temperature of 14.77°C."

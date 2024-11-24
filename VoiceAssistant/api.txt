@@ -1,0 +1,8 @@
+Wolframalpha : QGER3J-5QJAJE6UGV
+Api 2:  GQL8WE-P9J2HLJ39Q
+H3RGGW-RK4Y5QH4T3
+
+
+weather_api_key = "bea7558629b8172159af7eac4ef8ad18"
+currency_api_key = "8771b28c62deacb807007ebe"
+news_api_key = "fd237b1ac0bc4267bb47c48e9a843dae"

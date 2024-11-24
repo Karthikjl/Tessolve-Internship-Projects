@@ -1,0 +1,2 @@
+pip install SpeechRecognition pyttsx3 pywhatkit wikipedia pyjokes requests
+pip install pyaudio

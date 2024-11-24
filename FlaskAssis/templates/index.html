@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voice Assistant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        button {
+            font-size: 18px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #response {
+            margin-top: 20px;
+            font-size: 20px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Voice Assistant</h1>
+    <p>Click the button below to interact with the voice assistant.</p>
+
+    <button onclick="startRecognition()">Start Listening</button>
+
+    <div id="response"></div>
+
+    <script>
+        function startRecognition() {
+            fetch('/recognize', {
+                method: 'GET',
+            })
+            .then(response => response.json())
+            .then(data => {
+                const responseDiv = document.getElementById("response");
+                responseDiv.innerHTML = "Assistant Response: " + data.response;
+                console.log(data.response);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        }
+    </script>
+
+</body>
+</html>
