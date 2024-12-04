@@ -53,10 +53,10 @@ Assistant:
 "Playing 'Spark' on YouTube."
 
 User (via text):
-"Send a WhatsApp message to +918925751054 message Hi there!"
+"Send a WhatsApp message to +91xxxxxxxxx message Hi there!"
 
 Assistant:
-"Message sent to +918925751054: Hi there!"
+"Message sent to +91xxxxxxxxx: Hi there!"
 
 User (via voice):
 (Assistant listens to voice input: "What's the weather in London?")

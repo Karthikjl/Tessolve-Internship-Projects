@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 Final/
-
+Aiml Projects/Objectdetection/models/
 # Distribution / packaging
 .Python
 build/
